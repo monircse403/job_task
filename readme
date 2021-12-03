@@ -1,0 +1,19 @@
+1. I first make in interface with constructor sending product catalogue and delivery charge rules true
+2. In the class we implement this
+ = First I add the product using product code to this function function add ($product_code)
+ = second I make the function to calculate total price using function total
+ First I loop through the product array how many product order and then get the price from product catalogued array
+ For special discount I use the specialOffer true false so that if that is true reduce the price half
+ Inside the loop I add each total with delivery charge. For the delivery charge I made seperate function and add this delivery cost with the final total
+ to make this as final result.
+
+ I have made two function one for special offer and one for delivery charge
+
+
+ 3. It takes 1:45hr for me to make hope this will help.
+
+ I push the code to git and here is the repository
+
+
+
+
